@@ -1,0 +1,11 @@
+jogo inicia
+
+placar atual
+
+jogador * começa
+
+onde estara o seu navio?(2x, uma pra cada jogador)
+limpa
+navio posicionado com sucesso
+
+chuta posiçãos
