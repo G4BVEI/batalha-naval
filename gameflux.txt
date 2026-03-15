@@ -8,4 +8,8 @@ onde estara o seu navio?(2x, uma pra cada jogador)
 limpa
 navio posicionado com sucesso
 
-chuta posiçãos
+chuta posição
+print no tabuleiro, em vermelho onde ja marcou
+vez do proximo
+
+se alguem acertar ganha 
